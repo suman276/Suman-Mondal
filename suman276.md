@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mondalsuman"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mondalsuman"/></a>
   <a href="mailto:imsuman276@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:imsuman276@gmail.com"/></a>
 <a href="https://twitter.com/meSuman276"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/meSuman276"/></a>
-<a href="https://auth.geeksforgeeks.org/user/vermagaurav8/practice/"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/imsuman276/profile"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 
 </p>
 
