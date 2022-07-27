@@ -42,6 +42,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1OEd9F2SiULWyFtvDoIC_AcI8bGaJD3h1/view?usp=sharing).
 - :ski: &nbsp; When not coding, I binge watch shows, listen to music or play video games.
 - 🌱 &nbsp; Would love to hear about your project and big idea.
+- 🏦 &nbsp; would die a buisness man 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
