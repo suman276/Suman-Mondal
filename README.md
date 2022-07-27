@@ -58,5 +58,5 @@ My goal is to solve real life problems using technology and create an impact :sp
  
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
-   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-you-black"/>
 </p>
