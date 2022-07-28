@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="http//:google.com">Suman!</a> </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="https://iamsuman.co/">Suman!</a> </h1>
 
 
 
 <p align="center">
-    <a href="http//:google.com"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vermagaurav.co"/></a>
+    <a href="https://iamsuman.co/"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://iamsuman.co/"/></a>
   <a href="https://www.linkedin.com/in/mondalsuman"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mondalsuman"/></a>
   <a href="mailto:imsuman276@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:imsuman276@gmail.com"/></a>
 <a href="https://twitter.com/meSuman276"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/meSuman276"/></a>
@@ -40,7 +40,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 🤝 &nbsp; Open for collaborations in App development projects.
 - 🌐 &nbsp; Visit my [porfolio website](https://www.google.com/) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1OEd9F2SiULWyFtvDoIC_AcI8bGaJD3h1/view?usp=sharing).
-- :ski: &nbsp; When not coding, I binge watch shows, listen to music or play video games.
+- :ski: &nbsp; When not coding, I might play some guitar, listen to music or read a book.
 - 🌱 &nbsp; Would love to hear about your project and big idea.
 - 🏦 &nbsp; would die a buisness man 
 
